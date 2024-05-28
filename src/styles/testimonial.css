@@ -1,0 +1,25 @@
+.testimonial-img {
+    width: 3rem;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.testimonial-img-2 {
+    width: 5rem;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.testi-name{
+    margin-left: 10px;
+}
+.testi-name p {
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    color: #8064A2;
+    font-weight: bold;
+}
+.testi-name p:nth-child(2){
+    color: rgb(4, 175, 175);
+    font-weight: normal;
+}

@@ -1,0 +1,21 @@
+/* addnew.css */
+
+#addnew{
+
+    background: #F7FDFF;
+    margin-top: 5rem; /* Default margin for larger devices */
+}
+
+
+@media (max-width: 767px) {
+    #addnew {
+        margin-top: 30rem; /* Adjusted margin for small devices */
+    }
+}
+
+
+@media (min-width: 767px) and (max-width : 990px) {
+    #addnew {
+        margin-top: 10rem; /* Adjusted margin for small devices */
+    }
+}

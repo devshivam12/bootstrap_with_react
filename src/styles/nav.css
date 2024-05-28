@@ -1,0 +1,28 @@
+.search-btn{
+    background: #8064A2;
+    color : white;
+    border: none;
+    
+}
+.search-btn:hover{
+    background: #8064A2;
+}
+.nav-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-link{
+    font-size: 1.3rem;
+}
+#navbarScroll{
+    margin-left: 3rem;
+}
+.sign-btn{
+    background: white;
+    border: 1px solid #8064A2;
+    color: #8064A2;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}

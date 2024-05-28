@@ -1,0 +1,33 @@
+.main-body {
+    background-color: #F7F5F9;
+    min-height: 100vh;
+}
+
+.body-text{
+    text-align: start;
+}
+.body-text{
+    letter-spacing: .8px;
+    line-height: 2;
+
+}
+.sign-in{
+    color: #8064A2;
+    border: 0;
+    display: inline-block;
+    text-decoration: underline;
+    margin-right: 20px;
+}
+.join-in{
+    color: grey;
+}
+.submit-btn{
+    border: 1px solid black;
+    font-weight: 600;
+    font-size: 1.1rem;
+    display: flex; /* Ensure buttons take full width */
+    align-items: center; /* Center icon and text vertically */
+}
+.submit-btn:hover{
+    border: 1px solid black;
+}
